@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "launch.js", "use": "@now/node" }
+  ]
+}

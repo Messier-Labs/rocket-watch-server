@@ -1,5 +1,5 @@
 module.exports = {
-  date: '2019-04-01T03:57:00.000Z',
-  launchPad: 2,
-  name: 'PSLV/C45 - EMISAT'
+  date: '2019-05-21T23:57:00.000Z',
+  launchPad: 1,
+  name: 'PSLV/C46 - RISAT-2B'
 }

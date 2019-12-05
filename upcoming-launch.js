@@ -1,6 +1,6 @@
 module.exports = {
   // time in GMT YYYY-MM-DD
-  date: '2019-11-27T03:58:00.000Z',
-  launchPad: 2,
-  name: 'PSLV-C47 - Cartosat-3'
+  date: '2019-12-11T09:55:00.000Z',
+  launchPad: 1,
+  name: 'PSLV-C48 - RISAT-2BR1'
 }

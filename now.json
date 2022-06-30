@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "alias": ["rocket-watch-server"],
-  "builds": [
-    { "src": "launch.js", "use": "@now/node" }
-  ]
-}
